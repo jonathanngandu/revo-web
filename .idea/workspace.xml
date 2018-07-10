@@ -1,7 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c75ed4e8-a25d-4739-95d0-dc6797046876" name="Default" comment="" />
+    <list default="true" id="c75ed4e8-a25d-4739-95d0-dc6797046876" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Resources/views/content/homepage.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/nexus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/aim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/behance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/blogger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/cargo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/delicious.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/deviantart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/digg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/dopplr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/dribbble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/ember.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/evernote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/flickr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/forrst.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/googleplus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/gowalla.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/grooveshark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/html5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/icloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/lastfm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/metacafe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/mixx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/myspace.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/netvibes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/newsvine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/orkut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/picasa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/pinterest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/plurk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/posterous.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/reddit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/skype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/stumbleupon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/technorati.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/tumblr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/vimeo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/wordpress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/yahoo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/yelp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/zerply.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/social_icons/zootool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.isotope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.slicknav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.visible.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/slimbox2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/header/header.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/header/header.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/main.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,43 +110,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/HomeController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/css/header.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+            <state relative-caret-position="135">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/header/header.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            <state relative-caret-position="45">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <folding>
+                <element signature="e#58#78#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nexus.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/css/nexus.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="744" column="17" lean-forward="true" selection-start-line="744" selection-start-column="17" selection-end-line="744" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -72,17 +143,29 @@
       <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="165">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <folding>
+                <element signature="e#310#330#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/main.css">
+      <file leaf-file-name="homepage.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/content/homepage.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            <state relative-caret-position="45">
+              <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="video.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/content/video.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="82" selection-start-line="4" selection-start-column="82" selection-end-line="4" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -102,7 +185,23 @@
       <find>app_dev.php</find>
       <find>homepage</find>
       <find>sfwdt1d5702</find>
+      <find>.css&quot;</find>
+      <find>.js</find>
+      <find>.less</find>
+      <find>social-facebook</find>
+      <find>social-icons</find>
+      <find>less</find>
+      <find>glyphicons-halflings-regular</find>
+      <find>fonts</find>
+      <find>fonts/</find>
+      <find>#hornav ul &gt; li</find>
     </findStrings>
+    <replaceStrings>
+      <replace>') }}&quot;</replace>
+      <replace>.css') }}&quot;</replace>
+      <replace>{{ asset('</replace>
+      <replace>.js') }}</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -111,7 +210,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/index.php" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/site.conf" />
         <option value="$PROJECT_DIR$/docker/nginx/site.conf" />
         <option value="$PROJECT_DIR$/docker/php-fpm/DockerFile" />
@@ -125,11 +223,22 @@
         <option value="$PROJECT_DIR$/web/bundles/framework/css/header.css" />
         <option value="$PROJECT_DIR$/web/bundles/framework/css/main.css" />
         <option value="$PROJECT_DIR$/web/css/main.css" />
-        <option value="$PROJECT_DIR$/web/main.css" />
-        <option value="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
-        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
         <option value="$PROJECT_DIR$/web/css/header.css" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/notes.txt" />
+        <option value="$PROJECT_DIR$/app/Resources/views/social-widgets/social-widget.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/social/social-icons.html.twig" />
+        <option value="$PROJECT_DIR$/web/css/nav.css" />
+        <option value="$PROJECT_DIR$/web/main.js" />
+        <option value="$PROJECT_DIR$/web/main.css" />
+        <option value="$PROJECT_DIR$/app/Resources/views/header/nav.html.twig" />
+        <option value="$PROJECT_DIR$/web/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/header/header.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/content/homepage.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/content/video.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
+        <option value="$PROJECT_DIR$/web/css/nexus.css" />
       </list>
     </option>
   </component>
@@ -179,7 +288,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/apache-pack" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="808" />
@@ -222,7 +331,7 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="Resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="revo-web" type="b2602c69:ProjectViewProjectNode" />
@@ -230,43 +339,12 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="Resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="revo-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="revo-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="revo-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="revo-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="revo-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="revo-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="social" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="revo-web" type="b2602c69:ProjectViewProjectNode" />
               <item name="revo-web" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="revo-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="revo-web" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="bundles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="revo-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="revo-web" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="bundles" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="revo-web" type="b2602c69:ProjectViewProjectNode" />
@@ -289,9 +367,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Resources/views/content" />
+      <recent name="$PROJECT_DIR$/web/img" />
       <recent name="$PROJECT_DIR$/web" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/web/img" />
       <recent name="$PROJECT_DIR$/web/css" />
     </key>
   </component>
@@ -319,24 +401,27 @@
       <updated>1530727568294</updated>
       <workItem from="1530727570848" duration="1090000" />
       <workItem from="1530805466011" duration="187000" />
-      <workItem from="1530901395806" duration="10784000" />
+      <workItem from="1530901395806" duration="11197000" />
+      <workItem from="1531077138591" duration="3575000" />
+      <workItem from="1531248767732" duration="2690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12061000" />
+    <option name="totallyTimeSpent" value="18739000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="808" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="808" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32911393" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36990154" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36990154" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info anchor="bottom" id="Docker" order="7" weight="0.3296433" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -353,6 +438,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -429,11 +524,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/site.conf" />
     <entry file="file://$PROJECT_DIR$/src/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -445,16 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -498,13 +579,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/Home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/Home.php" />
     <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -532,9 +607,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/body.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/body.css" />
     <entry file="file://$PROJECT_DIR$/web/bundles/framework/css/structure.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -552,34 +625,137 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/header.css" />
+    <entry file="file://$PROJECT_DIR$/web/css/nav.css" />
+    <entry file="file://$PROJECT_DIR$/web/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="75">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/header.css">
+    <entry file="file://$PROJECT_DIR$/web/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+    <entry file="file://$PROJECT_DIR$/web/js/jquery.slicknav.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="2363" column="19" selection-start-line="2363" selection-start-column="19" selection-end-line="2363" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/cache/dev/classes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="242" column="4" lean-forward="true" selection-start-line="242" selection-start-column="4" selection-end-line="242" selection-end-column="4" />
+          <folding>
+            <element signature="e#6902#6975#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/header/nav.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/header/header.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        <state relative-caret-position="45">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="e#58#78#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/social/social-icons.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/content/video.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="82" selection-start-line="4" selection-start-column="82" selection-end-line="4" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/content/homepage.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="e#310#330#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/nexus.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="744" column="17" lean-forward="true" selection-start-line="744" selection-start-column="17" selection-end-line="744" selection-end-column="17" />
         </state>
       </provider>
     </entry>
